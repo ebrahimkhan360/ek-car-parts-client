@@ -1,0 +1,51 @@
+[
+    {
+      "id": "",
+      "price": "$380",
+      "description": "The motherboard is the backbone or platform of your PC.",
+      "img": "https://4.imimg.com/data4/YQ/NP/MY-11135034/1-500x500.jpg",
+      "supplier": "Asus",
+      "quantity": "6"
+    
+    },
+    {
+      "id": "",
+      "price": "$350",
+      "description": "The cutting edge Smart Inverter Compressor technology takes energy efficiency to another level and helps you save more. ",
+      "img": "https://5.imimg.com/data5/CC/YE/MY-29327546/refrigerator-500x500.jpg",
+      "supplier": "Singer",
+      "quantity": "3"
+    },
+    {
+      "id": "",
+      "price": "$110",
+      "description": "Buy the latest and unique designed ceiling fans at Walton Electronics. To find the Best Fan Price in Bangladesh, ",
+      "img": "https://vision.com.bd/images/thumbnails/550/450/detailed/31/Code_900646_Rech.-Table-Fan-14''-.jpg",
+      "supplier": "Vision",
+      "quantity": "4"
+    },
+    {
+      "id": "",
+      "price": "$96",
+      "description": "Buy the latest Air Conditioner (AC) from trusted global brands at Best Electronics in Bangladesh (BD).",
+      "img": "https://www.th.sharp/sites/default/files/uploads/2021-06/Picture2.jpg",
+      "supplier": "LG",
+      "quantity": "5"
+    },
+    {
+      "id": "",
+      "price": "$3,250",
+      "description": "supports you in the kitchen to make rice in a faster and simpler way. Soups, porridge, steamed vegetables etc. ",
+      "img": "https://electromart.com.bd/wp-content/uploads/2021/11/rice-cooker4.jpg",
+      "supplier": "Konka",
+      "quantity": "3"
+    },
+    {
+      "id": "",
+      "price": "$567",
+      "description": "Buy TV at the best price in Bangladesh. Latest Smart TV, Android TV, LED TV,4K TV available at Electronics Online Shop. ",
+      "img": "https://5.imimg.com/data5/DI/ZS/CP/SELLER-50489472/fortex-hd-ready-ips-led-tv-500x500.jpg",
+      "supplier": "Samsung",
+      "quantity": "4"
+    }
+  ]
