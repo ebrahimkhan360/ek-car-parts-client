@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "price": "$3280",
+    "description": "Don’t put yourself and other people in danger driving with bad headlights.",
+    "img": "https://cld.partsimg.com/image/upload/d_noimage.jpg,c_pad,f_auto,q_auto,dpr_auto,e_sharpen,h_350/carparts/home-category/top-category-headlights-and-lighting.jpg",
+    "name": "Headlights & Lighting",
+    "quantity": "6500"
+  
+  },
+  {
+    "id": "2",
+    "price": "$350",
+    "description": "The cutting edge Smart Inverter Compressor technology takes energy efficiency to another level and helps you save more. ",
+    "img": "https://cld.partsimg.com/image/upload/d_noimage.jpg,c_pad,f_auto,q_auto,dpr_auto,e_sharpen,h_350/carparts/home-category/top-category-auto-body-parts-and-mirrors.jpg",
+    "name": "Auto Body Parts & Mirrors",
+    "quantity": "3000"
+  },
+  {
+    "id": "3",
+    "price": "$110",
+    "description": "Driving with a bad air filter leaves your engine susceptible to dirt, which can damage your cylinder walls and pistons.",
+    "img": "https://cld.partsimg.com/image/upload/d_noimage.jpg,c_pad,f_auto,q_auto,dpr_auto,e_sharpen,h_350/carparts/home-category/top-category-engine-and-drivetrain.jpg",
+    "name": "Engine & Drivetrain",
+    "quantity": "4050"
+  },
+  {
+    "id": "4",
+    "price": "$96",
+    "description": "Nothing is more unnerving than discovering your brakes have gone bad while you’re driving.",
+    "img": "https://cld.partsimg.com/image/upload/d_noimage.jpg,c_pad,f_auto,q_auto,dpr_auto,e_sharpen,h_350/carparts/home-category/top-category-brakes-suspension-and-steering.jpg",
+    "name": "Brakes, Suspension & Steering",
+    "quantity": "5520"
+  },
+  {
+    "id": "5",
+    "price": "$3,250",
+    "description": "Whether you’re looking for a wheel to replace a damaged one or a set of new ones to make your vehicle look better, you can find what you need here at EK CarParts.",
+    "img": "https://cld.partsimg.com/image/upload/d_noimage.jpg,c_pad,f_auto,q_auto,dpr_auto,e_sharpen,h_350/carparts/home-category/top-category-wheels-and-tires.jpg",
+    "name": "Wheels",
+    "quantity": "3600"
+  },
+  {
+    "id": "6",
+    "price": "$567",
+    "description": "The OEMTOOLS 8 Piece Axle Nut 12 Pt. Socket Set is used for removing front wheel drive axle nuts.",
+    "img": "https://cld.partsimg.com/image/upload/d_noimage.jpg,c_pad,f_auto,q_auto,dpr_auto,e_sharpen,h_350/carparts/home-category/top-category-tools-and-garage.jpg",
+    "name": "Tools & Garage",
+    "quantity": "4550"
+  }
+]
