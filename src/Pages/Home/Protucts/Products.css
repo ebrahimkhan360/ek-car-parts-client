@@ -1,8 +1,11 @@
 /* service title */
 .products-title {
     text-align: center;
+    font-size: 40px;
     color: #000000;
     padding-top: 20px;
+    border-bottom: solid #000000;
+    border-radius: 10px;
 }
 
 .products-container {
