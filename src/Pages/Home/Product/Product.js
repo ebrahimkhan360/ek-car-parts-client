@@ -15,7 +15,7 @@ const Product = ({ service }) => {
             <p className='text-light'><span className='font-bold'>Quantity:</span> {quantity}</p>
             <p className='text-light'><span className='font-bold'>Description:</span>{description}</p>
             
-            <button onClick={() => navServiceDetail(_id)} id='button-id' className='button font-bold mt-4'>ORDER NOW</button>
+            <button onClick={() => navServiceDetail(_id)} className='button font-bold mt-4'>ORDER NOW</button>
             
         </div>
     );
