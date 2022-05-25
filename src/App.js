@@ -1,5 +1,7 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
+import ServiceDetail from './Pages/ServiceDetail/ServiceDetail';
+
 import About from './Pages/About/About';
 import Dashboard from './Pages/Dashboard/Dashboard/Dashboard';
 import Blogs from './Pages/Home/Blogs/Blogs';
@@ -18,12 +20,13 @@ function App() {
 
 
         <Route path="/" element={<Home></Home>}></Route>
-        
+        <Route path='/service/:serviceId'element={<ServiceDetail></ServiceDetail>}></Route>
         <Route path="/about" element={<About></About>} ></Route>
         <Route path="/blogs" element={<Blogs></Blogs>} ></Route>
         <Route path="/dashboard" element={<Dashboard></Dashboard>} ></Route>
         <Route path="/register" element={<Register></Register>} ></Route>
         <Route path="/login" element={<Login></Login>} ></Route>
+
 
         
       </Routes>

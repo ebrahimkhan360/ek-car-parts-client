@@ -42,7 +42,7 @@ const Login = () => {
     };
 
     return (
-        <div className='flex items-center'>
+        <div className='flex items-center mt-6'>
             <div className="mockup-phone mx-50">
                 <div className="display">
                     <div className="artboard artboard-demo phone-1">
