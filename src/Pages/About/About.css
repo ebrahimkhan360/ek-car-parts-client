@@ -1,0 +1,15 @@
+.bg-style{
+    color: #fffefd;
+    background-color: #4d4c4c9f;
+    border-radius: 10px;
+    width: 50%;
+    margin: 50px;
+}
+
+.my-img-style{
+    width: 300px;
+}
+.gif-style{
+    width: 280px;
+    margin-bottom: 20px;
+}

@@ -1,66 +1,48 @@
 import React from "react";
 import Service from "./Services.css";
+import icon1 from '../../../images/icon/icon (2).svg'
+import icon2 from '../../../images/icon/icon (3).svg'
+import icon3 from '../../../images/icon/icon (1).svg'
+
+
+
+
+
 const Services = () => {
     return (
         <div className="">
-            <div class="flex flex-col w-full border-opacity-50">
+            <div class=" w-full border-opacity-50">
                 <div class="divider">Our Services</div>
             </div>
-            <div class="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-1">
+            <div class="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
                 <div class="">
                     <div class="card">
-                        <img className="img-style" src="https://i.ibb.co/BnNfxpC/550-5504898-lightning-bolt-thunder-png-clipart-removebg-preview.png" alt="" />
-                        <div class="card-body mt-5">
-                            <h5 class="card-title">Thunder Server</h5>
-                            <p class="card-text">We have the fastest server in the world! You can easily download or upload any files to the server like thunder. Is this so fist and so Energy.</p>
+                    <img src={icon1} class="img-style"/>
+                        <div class="card">
+                            <h5 class="card-title">Guaranteed Fit</h5>
+                            <p class="p-5">Take the guesswork out of shopping for auto parts with CarParts.com. We make purchasing car parts online easier by providing accurate and detailed fitment information, which makes for a straightforward and hassle-free shopping experience. </p>
                         </div>
                     </div>
                 </div>
                 <div class="">
                     <div class="card">
-                        <img className="img-style" src="https://i.ibb.co/qd1VWB8/images-removebg-preview.png" alt="" />
-                        <div class="card-body mt-5">
-                            <h5 class="card-title">Rocket like Delivery</h5>
-                            <p class="card-text">We promise you to take the products from you withing hours. It doesn't matter wherever you're, Earth or Mars or the Sun.</p>
+                    <img src={icon2} class="img-style"/>
+                        <div class="card">
+                            <h5 class="card-title">Fast Shipping</h5>
+                            <p class="p-5">Get back on the road faster with CarParts.com. We deliver the parts you need, when you need them. Our three strategically-located auto parts warehouses are equipped with the latest technologies for efficient order processing and faster shipping.</p>
                         </div>
                     </div>
                 </div>
                 <div class="">
                     <div class="card">
-                        <img className="img-style" src="https://i.ibb.co/BTFHzVv/2454556-removebg-preview.png" alt="" />
-                        <div class="card-body mt-5">
-                            <h5 class="card-title">Invincible Security</h5>
-                            <p class="card-text">The most securest door in the universe. Hacker's fathers or dads don't have the power to crack it. Give your passwords to us, and go to sleep.</p>
+                    <img src={icon3} class="img-style"/>
+                        <div class="card">
+                            <h5 class="card-title">90-Day Returns</h5>
+                            <p class="p-5">At CarParts.com, we're confident that you'll be able to find the right part or accessory for your car, truck or SUV. But if for some reason you aren't completely satisfied with your order, we accept returns within 90 days of purchase—and we'll give you your money back!</p>
                         </div>
                     </div>
                 </div>
-                <div class="">
-                    <div class="card">
-                        <img className="img-style" src="https://i.ibb.co/qDQSptb/207-2071237-customer-service-icon-customer-service-flat-icon-png-removebg-preview.png" alt="" />
-                        <div class="card-body mt-5">
-                            <h5 class="card-title">Infinity Support</h5>
-                            <p class="card-text">You can easily contact with us and get the support. We only live for giving you the best support. Its our responsibility not yours.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="">
-                    <div class="card">
-                        <img className="img-style" src="https://i.ibb.co/16H2q02/5221076-removebg-preview.png" alt="" />
-                        <div class="card-body mt-5">
-                            <h5 class="card-title">Most Profitable Deals</h5>
-                            <p class="card-text">You will find the most profitable deal for you here. Just go and watch the deals. We will take all your money at night.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="">
-                    <div class="card">
-                        <img className="img-style" src="https://i.ibb.co/Mn74YZr/1024px-Archlinux-icon-crystal-64-svg-removebg-preview.png" alt="" />
-                        <div class="card-body mt-5">
-                            <h5 class="Planet to Planet">FREE Shipping</h5>
-                            <p class="card-text">Our service is available on every planet of every Galaxy. It doesn't matter who you are, Human or Alien. You will instantly get your desired product.</p>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </div>
     );

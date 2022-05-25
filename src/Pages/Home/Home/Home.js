@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Banner from '../Banner/Banner';
-import Products from '../Protucts/Products';
+import Products from '../Products/Products';
 import Status from '../Status/Status';
 import Services from '../Services/Services';
 

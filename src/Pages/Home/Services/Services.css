@@ -1,11 +1,12 @@
 .card{
     margin: 10px;
-    background-color: #859dee;
+    background-color: #d2dcfb;
     color: #000000;
-    width: 400px;
+    width: 460px;
     height: 300px;
+    align-items: center;
 }
 .img-style{
-    width: 60px;
+    width: 90px;
     
 }
