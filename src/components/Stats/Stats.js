@@ -1,16 +1,9 @@
 import React from 'react';
-// import stats from '../../assets/images/stats.gif';
 
 const Stats = () => {
     return (
         <div
-            // style={{
-
-            //     background: `url(${stats})`,
-            //     backgroundSize: 'cover',
-            //     // backgroundRepeat: 'no-repeat'
-            // }}
-            className="stats stats-vertical bg-primary grid sx:grid-cols-1 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-3 shadow">
+            className="stats stats-vertical bg-primary grid sx:grid-cols-1 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-3 shadow bg-slate-700">
 
             <div className="stat">
                 <div className="">Visitors</div>
