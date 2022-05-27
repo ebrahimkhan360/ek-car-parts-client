@@ -11,7 +11,7 @@ const MyProducts = () => {
     const navigate = useNavigate();
 
     useEffect(() => {
-        fetch(`http://localhost:5000/buying?buyer=${user.email}`, {
+        fetch(`https://sleepy-castle-97088.herokuapp.com/buying?buyer=${user.email}`, {
             method: 'GET',
             headers: {
                 'authorization': `Bearer ${localStorage.getItem('accessToken')}`

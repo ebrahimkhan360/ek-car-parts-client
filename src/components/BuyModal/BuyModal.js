@@ -21,7 +21,7 @@ const BuyModal = ({ buy, setBuy }) => {
             phone: e.target.phone.value
         }
 
-        fetch('http://localhost:5000/buying', {
+        fetch('https://sleepy-castle-97088.herokuapp.com/buying', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

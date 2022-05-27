@@ -6,7 +6,7 @@ const Products = ({ name }) => {
     const [buy, setBuy] = useState(null);
 
     useEffect(() => {
-        fetch('http://localhost:5000/product')
+        fetch('https://sleepy-castle-97088.herokuapp.com/product')
             .then(res => res.json())
             .then(data => setProducts(data))
     }, [])
