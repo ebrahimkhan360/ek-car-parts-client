@@ -1,0 +1,42 @@
+.card{
+    margin: 10px;
+    background-color: #d2dcfb;
+    color: #000000;
+    width: 460px;
+    height: 300px;
+    align-items: center;
+}
+.img-style{
+    width: 90px;
+    
+}
+
+
+
+<div class="bg-purple-500  rounded-xl justify-center items-center">
+                    <div class="">
+                    <img src={icon1} class="w-16"/>
+                        <div class="w-1/2">
+                            <h5 class="card-title">Guaranteed Fit</h5>
+                            <p class="p-5">Take the guesswork out of shopping for auto parts with CarParts.com. We make purchasing car parts online easier by providing accurate and detailed fitment information, which makes for a straightforward and hassle-free shopping experience. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-purple-500  rounded-xl">
+                    <div class="w-1/2">
+                    <img src={icon2} class="w-16"/>
+                        <div class="card">
+                            <h5 class="card-title">Fast Shipping</h5>
+                            <p class="p-5">Get back on the road faster with CarParts.com. We deliver the parts you need, when you need them. Our three strategically-located auto parts warehouses are equipped with the latest technologies for efficient order processing and faster shipping.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-purple-500  rounded-xl">
+                    <div class="w-1/2">
+                    <img src={icon3} class="w-16"/>
+                        <div class="card">
+                            <h5 class="card-title">90-Day Returns</h5>
+                            <p class="p-5">At CarParts.com, we're confident that you'll be able to find the right part or accessory for your car, truck or SUV. But if for some reason you aren't completely satisfied with your order, we accept returns within 90 days of purchase—and we'll give you your money back!</p>
+                        </div>
+                    </div>
+                </div>

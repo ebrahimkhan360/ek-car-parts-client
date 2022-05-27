@@ -10,8 +10,9 @@ const MyTools = () => {
                 <div className="hero-content flex-col lg:flex-row">
                     <img src={effect} className="max-w-sm rounded-lg shadow-2xl" />
                     <div>
-                        <h1 className="text-5xl font-bold">My high quality products</h1>
-                        <p className="py-6">Do you want to buy high quality robotics products? Then you can buy the product of your choice by clicking on the button below. click here All products!!</p>
+                        <h1 className="text-5xl font-bold">Shop by Categories</h1>
+                        <p className="py-6">The parts I got were just right, perfect fit, and very cheap. I pay more for the delivery than my fender liner. Thank you
+                            Of course I will get my stuff with you guys, definitely.</p>
                     </div>
                 </div>
             </div>
